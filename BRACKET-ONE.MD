@@ -6,11 +6,27 @@
 
 ### **Core priorities (in order)**
 
-1. **Buy Deft Strikes sigil (Gives accuracy boost across the board)**
+1. **Buy sigil of consistency**
 
 2. Early Mage → Prayer
 
-3. Early Litheness (Allows player to use any agility shortcut without needing the requirements) \
+3. Early Litheness (Allows player to use any agility shortcut without needing the requirements)
+
+**Starting out**
+
+1. On log in, spawn in lumbridge
+
+2. **MAKE SURE TO GET THE MENACING MAGE SIGIL (Do this the first time you’re at a bank)**
+
+3. Check age at hans
+
+4. Pickpocket women/man 5x
+
+5. Use chronicle tele
+
+6. enter champions guild
+
+Go to varrock east bank, on the way there open up the clothing shop for some extra points \
 
 
 
@@ -41,13 +57,7 @@ On first login you have:
 
 ### **Buy:**
 
-### **Sigil of Deft Strikes — 100 skull points**
-
-- +30% accuracy vs NPCs
-
-- Affects **all combat styles**
-
-- This makes *every single action after faster \
+**Sigil of consistency – 150 skull points*** \
 *
 
 ⚠️ Do **not** train anything before buying this.
@@ -63,27 +73,7 @@ Time: **2–3 minutes**
 
 - Generate early skull points efficiently
 
-- Get 10k to split between 2 players
-
-### **Where:**
-
-- Rats / goblins / guards (safe areas)
-
-- Barbarian village
-
-### **How:**
-
-- Eat tuna only when needed
-
-Expected:
-
-- Mage: 5-30
-
-- HP: ~20–25
-
-- Skull points from levels
-
-⏱️ Time: **10-15 minutes**
+- **Get 10k from SS**
 
 
 ## **STEP 3 — PRAYER SETUP (PROTECTION + POINTS)**
@@ -160,9 +150,9 @@ This makes Fight Arena trivial.
 ⏱️ Time: **15 minutes**
 
 
-## **STEP 6 — GemStone crab**
+## **STEP 6 — Kill stella**
 
-### **Make sure to stay in bracket 1 for first breach**
+### Get in b2 BEFORE the first breach so we can do the breach on protection (singles only!)
 
 ### **Exit targets:**
 
@@ -177,5 +167,4 @@ This makes Fight Arena trivial.
 - Prayer: **43 \
 **
 
-Combat level: **59 (make sure to stay below 60 so we can do 1st breach in b1) \
-**⏱️ Time at crabs: **40–55 minutes**
+Combat level: 60+
