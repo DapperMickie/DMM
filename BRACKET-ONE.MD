@@ -20,7 +20,7 @@
 
 3. Check age at hans
 
-4. Pickpocket women/man 5x
+4. Pickpocket women/man 5x (if you're not getting xp here, do this when you're in varrock)
 
 5. Use chronicle tele
 
